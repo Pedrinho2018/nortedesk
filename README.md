@@ -2,6 +2,12 @@
 
 Sistema simples de chamados de TI criado em Python.
 
+## Projeto Online
+
+Acesse o sistema publicado no Streamlit:
+
+https://nortedesk-vrbmn68awepq2v5fmwmkqx.streamlit.app/
+
 ## Funcionalidades
 
 - Criar chamados
